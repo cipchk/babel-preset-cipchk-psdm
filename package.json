@@ -1,0 +1,32 @@
+{
+  "name": "babel-preset-cipchk-psdm",
+  "version": "1.0.0",
+  "description": "Babel preset for PSDM application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cipchk/babel-preset-cipchk-psdm.git"
+  },
+  "keywords": [
+    "babel-preset"
+  ],
+  "author": "YangCheng Su <cipchk@qq.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cipchk/babel-preset-cipchk-psdm/issues"
+  },
+  "homepage": "https://github.com/cipchk/babel-preset-cipchk-psdm#readme",
+  "dependencies": {
+    "babel-plugin-array-includes": "^2.0.3",
+    "babel-plugin-syntax-class-properties": "^6.5.0",
+    "babel-plugin-syntax-decorators": "^6.5.0",
+    "babel-plugin-syntax-object-rest-spread": "^6.5.0",
+    "babel-plugin-transform-class-properties": "^6.5.2",
+    "babel-plugin-transform-decorators-legacy": "^1.3.4",
+    "babel-plugin-transform-object-assign": "^6.5.0",
+    "babel-plugin-transform-object-rest-spread": "^6.5.0"
+  }
+}
